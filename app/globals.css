@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+a {
+  color: rgb(var(--foreground-rgb));
+  text-decoration: underline;
+  font-style: italic;
+}

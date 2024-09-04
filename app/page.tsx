@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -34,7 +35,7 @@ export default function Home() {
           <br /><br />
           I've worked with dozens of clients from a wide range of industries, from small businesses to large corporations, and I've helped them all achieve their goals. I'm proud of the work I've done, and I'm excited to see what the future holds. 
           <br /><br />
-          Though TCO Legacy is no longer an active agency, I'm still available for freelance work and consulting. If you're interested in working with me, please don't hesitate to reach out on LinkedIn or via email. I'd love to hear from you!
+          Though TCO Legacy is no longer an active agency, I'm still available for freelance work and consulting. If you're interested in working with me, please don't hesitate to reach out on <a href="https://www.linkedin.com/in/conley-potter/">LinkedIn</a> or via <a href="mailto:conley@tcolegacy.com">email</a>. I'd love to hear from you!
         </h1>
       </div>
 
