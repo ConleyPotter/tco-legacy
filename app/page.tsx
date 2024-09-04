@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 
 export default function Home() {
   return (
@@ -31,11 +30,11 @@ export default function Home() {
         <h1 className="text-4xl">
           <span className="font-bold italic">TCO Legacy</span> was a Digital Markieting Agency founded in 2023 and ran by me, Conley Potter. 
           <br /><br />
-          The agency was recently closed, but I've been working in the industry since 2019 (and even earlier, if you count my various startups and projects with friends in college). 
+          The agency was recently closed, but I&apos;ve been working in the industry since 2019 (and even earlier, if you count my various startups and projects with friends in college). 
           <br /><br />
-          I've worked with dozens of clients from a wide range of industries, from small businesses to large corporations, and I've helped them all achieve their goals. I'm proud of the work I've done, and I'm excited to see what the future holds. 
+          I&apos;ve worked with dozens of clients from a wide range of industries, from small businesses to large corporations, and I&apos;ve helped them all achieve their goals. I&apos;m proud of the work I&apos;ve done, and I&apos;m excited to see what the future holds. 
           <br /><br />
-          Though TCO Legacy is no longer an active agency, I'm still available for freelance work and consulting. If you're interested in working with me, please don't hesitate to reach out on <a href="https://www.linkedin.com/in/conley-potter/">LinkedIn</a> or via <a href="mailto:conley@tcolegacy.com">email</a>. I'd love to hear from you!
+          Though TCO Legacy is no longer an active agency, I&apos;m still available for freelance work and consulting. If you&apos;re interested in working with me, please don&apos;t hesitate to reach out on <a href="https://www.linkedin.com/in/conley-potter/">LinkedIn</a> or via <a href="mailto:conley@tcolegacy.com">email</a>. I would love to hear from you!
         </h1>
       </div>
 
